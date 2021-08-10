@@ -1,7 +1,7 @@
-Deputy Director of Instructor Training 
+# Deputy Director of Instructor Training 
 
-Pronouns: She/Her
-Twitter: @kbarne2
+- Pronouns: She/Her
+- Twitter: [@kbarne2](https://twitter.com/kbarne2)
 
 <!--
 **klbarnes20/klbarnes20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
