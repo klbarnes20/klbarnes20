@@ -1,4 +1,4 @@
-# Deputy Director of Instructor Training 
+# Director of Assessment 
 
 - Pronouns: She/Her
 - Twitter: [@kbarne2](https://twitter.com/kbarne2)
