@@ -1,4 +1,4 @@
-# Director of Assessment 
+# Director of Assessment at The Carpentries 
 
 - Pronouns: She/Her
 - Twitter: [@kbarne2](https://twitter.com/kbarne2)
